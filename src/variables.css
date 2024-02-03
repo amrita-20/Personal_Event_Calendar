@@ -1,0 +1,24 @@
+.app-container {
+  --text-primary: black;
+  --bg-color: #EDF2FA;
+  --primary-color: #D5F3F5;
+  --secondary-color: #93BEE4;
+  --btn-bg: #13385a;
+  --text-secondary: #FFFFFF;
+  --btn-hover: #0099DD;
+  --vibrant-color: #520120;
+  --contrast-color: #7A577A;
+
+}
+
+.app-container.dark {
+  --text-primary: #FFFFFF;
+  --bg-color: #4F5953;
+  --primary-color: #344035;
+  --secondary-color: #082b38;
+  --btn-bg: #93BEE4;
+  --text-secondary: black;
+  --btn-hover: #008F8C;
+  --vibrant-color: #13F2C9;
+  --contrast-color: #589A8D;
+}
